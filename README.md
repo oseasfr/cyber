@@ -43,9 +43,3 @@
   <img height="150" src="https://github.com/jglovier/gifs/raw/gh-pages/hacking/typity-type.gif?raw=true"  />
 </div>
 <h3 align="left"></h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=oseasfr&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
