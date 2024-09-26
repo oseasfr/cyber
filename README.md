@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">Obas, e ai bão?</h1>
+<h1 align="left">Obas, e ai bão?</h1>
 
 ###
 
@@ -36,6 +36,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
+
+> [!TIP]
+> Seguem abaixo algumas URLs por categoria, que auxiliam nas atividades da área da **Segurança da Informação**.
+
+> :beginner: Consultas de dados relacionados aos serviços, suas reputações e abusos.
+
+- [x] [Useful LInks](https://github.com/oseasfr/cyber/wiki/Useful-Links) 
 
 ###
 
