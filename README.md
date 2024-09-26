@@ -20,7 +20,7 @@
   </a>
 </div>  
   - 📚 Atualmente Cursando MBA em Segurança da Informação;<br>
-  - ⚡ No me tempo livre curto a família, amigos e gosto de tocar um violão.</p>
+  - ⚡ No meu tempo livre curto a família, amigos e gosto de tocar um violão.</p>
 
 ###
 
