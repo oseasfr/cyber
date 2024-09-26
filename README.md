@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=oseasfr.oseasfr&"  />
 </div>
 
 ###
@@ -26,11 +25,7 @@
 
 ###
 
-<p align="left">Me chamo Oséas Rosa<br><br>- 📚 Cursando MBA em Segurança da Informação na Descomplica<br>- ⚡ No me tempo livre curto a <br> família, amigos e toco violão.</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
+<p align="left">Me chamo Oséas Rosa<br><br>- 📚 Cursando MBA em Segurança da Informação na Descomplica<br>- ⚡ No me tempo livre curto a <br> família, amigos e gosto de tocar um violão.</p>
 
 ###
 
@@ -43,6 +38,8 @@
 </div>
 
 ###
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=oseasfr.oseasfr&"  />
 
 <h3 align="left"></h3>
 
