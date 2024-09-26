@@ -3,18 +3,9 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=oseasfr.oseasfr&"  />
 </div>
 
-
 ###
 
 <h1 align="left">Obas, e ai bão?</h1>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/oseasfr/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
 
 ###
 
@@ -23,7 +14,14 @@
 ###
 
 <p align="left">Me chamo Oséas Rosa,<br><br>
-  
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/oseasfr/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>  
   - 📚 Atualmente Cursando MBA em Segurança da Informação;<br>
   - ⚡ No me tempo livre curto a família, amigos e gosto de tocar um violão.</p>
 
