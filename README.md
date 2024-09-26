@@ -1,5 +1,5 @@
 ###
-<div align="center">
+<div align="left">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=oseasfr.oseasfr&"  />
 </div>
 
@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">Me chamo Oséas Rosa<br><br>
+<p align="left">Me chamo Oséas Rosa,<br><br>
   
   - 📚 Atualmente Cursando MBA em Segurança da Informação;<br>
   - ⚡ No me tempo livre curto a família, amigos e gosto de tocar um violão.</p>
@@ -37,9 +37,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-> :beginner: Seguem abaixo algumas URLs por categoria, que auxiliam nas atividades da área da **Segurança da Informação**.
+> :beginner: Seguem abaixo algumas urls por categoria que auxiliam nas atividades da área da **Segurança da Informação**.
 
-- [x] [Useful LInks](https://github.com/oseasfr/cyber/wiki/Useful-Links) 
+- [x] [Useful Links](https://github.com/oseasfr/cyber/wiki/Useful-Links) 
 
 ###
 
