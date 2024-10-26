@@ -19,6 +19,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>  
+  - 📚 Analista de Segurança da Informação em Data Center Privado;<br>
   - 📚 Atualmente Cursando MBA em Segurança da Informação;<br>
   - ⚡ No meu tempo livre curto a família, amigos e gosto de tocar um violão.</p>
 
@@ -39,7 +40,8 @@
 ###
 
 
-- [x] [Useful Links](https://github.com/oseasfr/cyber/wiki/Useful-Links) 
+- [x] [Useful Links](https://github.com/oseasfr/cyber/wiki/Useful-Links)
+- [x] [Hardening de Servidores](https://github.com/oseasfr/cyber/wiki/Hardening-de-Servidores)
 
 ###
 
