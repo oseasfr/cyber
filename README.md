@@ -20,7 +20,8 @@
   </a>
 </div>  
   - 📚 Analista de Segurança da Informação em Data Center Privado;<br>
-  - 📚 Atualmente Cursando MBA em Segurança da Informação;<br>
+  - 📚 Pós-Graduado em MBA em Segurança da Informação - Descomplica;<br>
+  - 📚 Tecnólogo em Redes de Computadores - UEG; 
   - ⚡ No meu tempo livre curto a família, amigos e gosto de tocar um violão.</p>
 
 ###
