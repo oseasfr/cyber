@@ -21,7 +21,7 @@
 </div>  
   - 📚 Analista de Segurança da Informação em Data Center Privado;<br>
   - 📚 Pós-Graduação: MBA em Segurança da Informação pela Descomplica;<br>
-  - 📚 Graduação: Tecnólogo em Redes de Computadores pela UEG; 
+  - 📚 Graduação: Tecnólogo em Redes de Computadores pela UEG;<br>
   - ⚡ No meu tempo livre curto a família, amigos e gosto de tocar um violão.</p>
 
 ###
