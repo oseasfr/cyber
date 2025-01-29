@@ -4,7 +4,7 @@
 <img src="https://github.com/oseasfr/cyber/blob/Principal/conscientizacao/awareness-001.png" width="700"/>
 
 ## Links úteis 
-> Alguns links e recursos gratuitos para conscientização em segurança da informação e proteção de dados.
+> Alguns links e recursos gratuitos para conscientização em segurança da informação.
 
 - [x] [Materiais Gov.br](https://www.gov.br/gsi/pt-br/ssic/material-de-conscientizacao)<br>
 Materiais gratuitos para conscientização em segurança e proteção cibernética.
