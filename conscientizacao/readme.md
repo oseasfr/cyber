@@ -11,5 +11,5 @@ Materiais gratuitos para conscientização em segurança e proteção cibernéti
 - [x] [Phishing Quiz da Google](https://phishingquiz.withgoogle.com/)<br>
 Ferramenta web com o intuito de ensinar os usuários na identificação de ataques de *Phishing* 🐟.
 - [x] [Teste de Senha Kaspersky](https://password.kaspersky.com/pt/)<br>
-Ferramenta web com o intuito de conscientizar sobre a necessidade do fortalecimento das senhas 🔐.<br>
-Conta também com medição interativa da complexidade das senhas inseridas e avaliação de algum vazamento de dados.
+Ferramenta de conscientização para fortalecimento das senhas 🔐.<br>
+Conta também medição da complexidade e avaliação de possível vazamento de dados.
