@@ -12,4 +12,4 @@ Materiais gratuitos para conscientização em segurança e proteção cibernéti
 Ferramenta web com o intuito de ensinar os usuários na identificação de ataques de *Phishing* 🐟.
 - [x] [Teste de Senha Kaspersky](https://password.kaspersky.com/pt/)<br>
 Ferramenta de conscientização para fortalecimento das senhas 🔐.<br>
-Conta também medição da complexidade e avaliação de possível vazamento de dados.
+Conta também com medição da complexidade e avaliação de possível vazamento de dados.
