@@ -8,13 +8,3 @@
 
 - [x] [Materiais Gov.br](https://www.gov.br/gsi/pt-br/ssic/material-de-conscientizacao) - Materiais gratuitos para conscientização em segurança e proteção cibernética.
 - [x] [Phishing Quiz da Google]() - Ferramenta web interativa projetada para ajudar os profissionais a ensinar os usuários na identificação de ataques de *Phishing* 🐟.
-
-
-
-
-
-
-
-
-
-os usuários a aprender a identificar e evitar ataques de phishing, através de um quiz com exemplos reais e dicas de segurança.
