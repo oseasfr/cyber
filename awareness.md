@@ -1,2 +1,9 @@
 # Conscientização em Segurança da Informação
-<img src="https://github.com/user-attachments/assets/6ff028fa-79aa-4707-af8d-305a64e23689" width="700"/>
+> Information Security Awareness
+
+<img src="https://github.com/user-attachments/assets/e7fc439f-5f8c-4652-8925-0b1d4041d292" width="700"/>
+
+## Links úteis 
+> Alguns links e recursos gratuitos para conscientização em segurança da informação e proteção de dados.
+
+- [x] [Materiais Gov.br](https://www.gov.br/gsi/pt-br/ssic/material-de-conscientizacao) - Materiais gratuitos para conscientização em segurança e proteção cibernética.
