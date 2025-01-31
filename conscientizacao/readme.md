@@ -17,6 +17,11 @@ Conta também com medição da complexidade e avaliação de possível vazamento
 ## Vídeos
 
 <a href="https://www.youtube.com/watch?v=8zcrg23K-M8">
-  <img src="https://github.com/user-attachments/assets/2bc97ae4-1ae4-4f11-844f-c7dd38895c95" alt="Como criar senhas fortes" width="500"/>
+  <img src="https://github.com/user-attachments/assets/2bc97ae4-1ae4-4f11-844f-c7dd38895c95" width="500"/>
 </a>
 <p style="text-align: center;">Como criar senhas fortes</p>
+
+<a href="https://www.youtube.com/watch?v=gSQgbCo6PAg">
+  <img src="https://github.com/user-attachments/assets/24eb9047-87bd-4c71-9ed6-4452fba31641" width="500"/>
+</a>
+<p style="text-align: center;">Phishing Attack</p>
