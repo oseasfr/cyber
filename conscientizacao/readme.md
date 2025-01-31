@@ -25,3 +25,8 @@ Conta também com medição da complexidade e avaliação de possível vazamento
   <img src="https://github.com/user-attachments/assets/24eb9047-87bd-4c71-9ed6-4452fba31641" width="500"/>
 </a>
 <p style="text-align: center;">Phishing Attack</p>
+
+<a href="https://www.youtube.com/watch?v=opRMrEfAIiI">
+  <img src="https://github.com/user-attachments/assets/362b5a15-7455-4cf4-bb03-c1703e56815a" width="500"/>
+</a>
+<p style="text-align: center;">Whats is Your Password?</p>
