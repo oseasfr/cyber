@@ -14,15 +14,17 @@
 ###
 
 <p align="left">Me chamo Oséas Rosa,
-<div align="left">
-  <a href="https://www.linkedin.com/in/oseasfr/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+
   </a>
 </div>  
   - 📚 Analista de Segurança da Informação em um Data Center Privado 🇧🇷;<br>
   - 📚 Pós-Graduado em MBA em Segurança da Informação pela Descomplica;<br>
   - 📚 Graduação: Tecnólogo em Redes de Computadores pela UEG;<br>
   - ⚡ No meu tempo livre curto a família, amigos e gosto de tocar um violão.</p>
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/oseasfr/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
 
 ###
 
