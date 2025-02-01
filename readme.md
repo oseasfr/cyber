@@ -38,12 +38,9 @@
 
 ###
 
-> :beginner: Seguem abaixo algumas URLs por categoria que auxiliam nas atividades da área da **Segurança da Informação**.
+> Disponibilizo aqui algumas documentações da área de Segurança da Informação, então é só clicar no link abaixo para ter acesso.
 
-###
-
-
-- [x] [Useful Links](https://github.com/oseasfr/cyber/wiki/Useful-Links)
+- [x] [Meu Wiki](https://github.com/oseasfr/cyber/wiki)
 
 ###
 
