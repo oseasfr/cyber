@@ -1,1 +1,1 @@
-> Somente um repositório de imagens
+> Somente um repositório de imagens e gifs
