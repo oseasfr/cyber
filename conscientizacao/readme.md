@@ -30,3 +30,5 @@ Conta também com medição da complexidade e avaliação de possível vazamento
   <img src="https://github.com/user-attachments/assets/362b5a15-7455-4cf4-bb03-c1703e56815a" width="500"/>
 </a>
 <p style="text-align: center;">Whats is Your Password?</p>
+
+> Em construção ...
