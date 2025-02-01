@@ -1,7 +1,7 @@
 # Conscientização em Segurança da Informação
 > Information Security Awareness
 
-<img src="https://github.com/oseasfr/cyber/blob/Principal/conscientizacao/awareness-001.png" width="700"/>
+<img src="https://github.com/oseasfr/cyber/blob/Principal/imagens/awareness-001.png" width="700"/>
 
 ## Plataformas Web
 > Alguns links e recursos gratuitos para conscientização em segurança da informação.
