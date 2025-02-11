@@ -32,3 +32,5 @@ Conta também com medição da complexidade e avaliação de possível vazamento
 <p style="text-align: center;">Whats is Your Password?</p>
 
 > Em construção ...
+
+##### [![](https://img.shields.io/badge/Voltar-para%20Wiki-blue?style=plastic&logo=github)](https://github.com/oseasfr/cyber/wiki)
