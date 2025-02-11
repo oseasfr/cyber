@@ -41,7 +41,7 @@
 
 > Disponibilizo aqui algumas documentações da área de Segurança da Informação, então é só clicar no link abaixo para ter acesso.
 
-- [x] [Meu Wiki](https://github.com/oseasfr/cyber/wiki)
+##### [![](https://img.shields.io/badge/Meu-Wiki-blue?style=plastic&logo=github)](https://github.com/oseasfr/cyber/wiki)
 
 ###
 
