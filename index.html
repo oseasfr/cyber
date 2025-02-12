@@ -3,22 +3,69 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>README</title>
-  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <title>Meu README</title>
+  <!-- CSS para estilizar o markdown com aparência similar ao GitHub -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/4.0.0/github-markdown.min.css">
+  <style>
+    body {
+      background-color: #f6f8fa;
+      padding: 2em;
+    }
+    .markdown-body {
+      background-color: #fff;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      padding: 2em;
+      border-radius: 6px;
+      max-width: 800px;
+      margin: 0 auto;
+    }
+  </style>
 </head>
 <body>
-  <div id="conteudo"></div>
+  <!-- Área onde o conteúdo renderizado será exibido -->
+  <article class="markdown-body" id="conteudo">
+    Carregando conteúdo...
+  </article>
 
   <script>
-    fetch('https://raw.githubusercontent.com/oseasfr/cyber/Principal/README.md')
-      .then(response => response.text())
-      .then(text => {
-        const html = marked(text);
-        document.getElementById('conteudo').innerHTML = html;
-      })
-      .catch(error => {
-        console.error('Erro ao carregar o README:', error);
-      });
+    document.addEventListener("DOMContentLoaded", function() {
+      // Primeiro, busca o conteúdo Markdown do seu README.md no GitHub
+      fetch('https://raw.githubusercontent.com/oseasfr/cyber/Principal/README.md')
+        .then(response => {
+          if (!response.ok) {
+            throw new Error('Erro ao buscar o arquivo: ' + response.status);
+          }
+          return response.text();
+        })
+        .then(markdown => {
+          // Em seguida, envia o Markdown para a API do GitHub para renderizá-lo em HTML
+          return fetch('https://api.github.com/markdown', {
+            method: 'POST',
+            headers: {
+              'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({
+              text: markdown,
+              mode: 'gfm',
+              context: 'oseasfr/cyber'
+            })
+          });
+        })
+        .then(response => {
+          if (!response.ok) {
+            throw new Error('Erro na API do GitHub: ' + response.status);
+          }
+          return response.text();
+        })
+        .then(html => {
+          // Exibe o HTML convertido na página
+          document.getElementById('conteudo').innerHTML = html;
+        })
+        .catch(error => {
+          console.error('Erro:', error);
+          document.getElementById('conteudo').innerHTML = "Erro ao carregar o conteúdo.";
+        });
+    });
   </script>
 </body>
 </html>
