@@ -13,8 +13,7 @@
 
 ###
 
-<p align="left">Me chamo Oséas Rosa,
-
+<p align="left">Me chamo Oséas Rosa,<br>
   </a>
 </div>  
 <br>
