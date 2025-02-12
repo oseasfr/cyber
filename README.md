@@ -17,6 +17,7 @@
 
   </a>
 </div>  
+<br>
   - 📚 Analista de Segurança da Informação em um Data Center Privado 🇧🇷;<br>
   - 📚 Pós-Graduado em MBA em Segurança da Informação pela Descomplica;<br>
   - 📚 Graduação: Tecnólogo em Redes de Computadores pela UEG;<br>
@@ -43,9 +44,6 @@
 
 ##### [![](https://img.shields.io/badge/Meu-Wiki-blue?style=plastic&logo=github)](https://github.com/oseasfr/cyber/wiki)
 
-[![](https://img.shields.io/badge/Meu-GitHub-blue?style=plastic&logo=github)](https://github.com/oseasfr)
-
-
 ###
 
 <h3 align="left">Contribuições</h3>
@@ -56,4 +54,9 @@
 </a>
 
 </div>
+
+###
+
+[![](https://img.shields.io/badge/Meu-GitHub-blue?style=plastic&logo=github)](https://github.com/oseasfr)
+
 <h3 align="left"></h3>
