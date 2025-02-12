@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Meu README</title>
+  <script src="https://cdn.jsdelivr.net/npm/showdown@1.9.1/dist/showdown.min.js"></script>
+</head>
+<body>
+  <div id="conteudo"></div>
+
+  <script>
+    const converter = new showdown.Converter();
+    fetch('https://raw.githubusercontent.com/oseasfr/cyber/Principal/readme.md')
+      .then(response => response.text())
+      .then(text => {
+        const html = converter.makeHtml(text);
+        document.getElementById('conteudo').innerHTML = html;
+      });
+  </script>
+</body>
+</html>
