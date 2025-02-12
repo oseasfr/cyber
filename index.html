@@ -11,7 +11,7 @@
 
   <script>
     const converter = new showdown.Converter();
-    fetch('https://raw.githubusercontent.com/oseasfr/cyber/Principal/readme.md')
+    fetch('https://raw.githubusercontent.com/oseasfr/cyber/Principal/README.md')
       .then(response => response.text())
       .then(text => {
         const html = converter.makeHtml(text);
