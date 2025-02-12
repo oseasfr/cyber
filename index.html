@@ -4,10 +4,19 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Meu README</title>
-  <link rel="stylesheet" href="https://raw.githubusercontent.com/oseasfr/cyber-css/main/styles.css">
-  <script src="https://raw.githubusercontent.com/oseasfr/cyber-js/main/script.js"></script>
+  <link rel="stylesheet" href="https://raw.githubusercontent.com/oseasfr/cyber/Principal/cyber-css/styles.css">
+  <script src="https://raw.githubusercontent.com/oseasfr/cyber-js/Principal/script.js"></script>
 </head>
 <body>
   <div id="conteudo"></div>
+
+  <script>
+    fetch('https://raw.githubusercontent.com/oseasfr/cyber/Principal/README.md')
+      .then(response => response.text())
+      .then(text => {
+        const html = marked(text);
+        document.getElementById('conteudo').innerHTML = html;
+      });
+  </script>
 </body>
 </html>
