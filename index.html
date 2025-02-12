@@ -3,13 +3,22 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Meu README</title>
-  <link rel="stylesheet" href="styles.css">
+  <title>README</title>
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 </head>
 <body>
   <div id="conteudo"></div>
 
-  <script src="script.js"></script>
+  <script>
+    fetch('https://raw.githubusercontent.com/oseasfr/cyber/Principal/README.md')
+      .then(response => response.text())
+      .then(text => {
+        const html = marked(text);
+        document.getElementById('conteudo').innerHTML = html;
+      })
+      .catch(error => {
+        console.error('Erro ao carregar o README:', error);
+      });
+  </script>
 </body>
 </html>
