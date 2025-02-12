@@ -2,42 +2,22 @@ body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
   padding: 20px;
-  background-color: #fff;
-  color: #333;
+  background-color: #121212;
+  color: #fff;
 }
 
 #conteudo {
   max-width: 800px;
   margin: 0 auto;
   padding: 20px;
-  background-color: #f4f4f4;
+  background-color: #333;
   border-radius: 10px;
 }
 
 h1, h2, h3 {
-  color: #333;
+  color: #fff;
 }
 
 p {
-  color: #666;
-}
-
-/* Estilos para modo escuro */
-@media (prefers-color-scheme: dark) {
-  body {
-    background-color: #121212;
-    color: #fff;
-  }
-
-  #conteudo {
-    background-color: #333;
-  }
-
-  h1, h2, h3 {
-    color: #fff;
-  }
-
-  p {
-    color: #aaa;
-  }
+  color: #bbb;
 }
