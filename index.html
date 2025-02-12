@@ -4,20 +4,12 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Meu README</title>
-  <link rel="stylesheet" href="https://raw.githubusercontent.com/oseasfr/cyber/Principal/cyber-css/styles.css">
+  <link rel="stylesheet" href="styles.css">
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-  <script src="https://raw.githubusercontent.com/oseasfr/cyber/Principal/cyber-js/script.js"></script>
 </head>
 <body>
   <div id="conteudo"></div>
 
-  <script>
-    fetch('https://raw.githubusercontent.com/oseasfr/cyber/Principal/README.md')
-      .then(response => response.text())
-      .then(text => {
-        const html = marked(text);
-        document.getElementById('conteudo').innerHTML = html;
-      });
-  </script>
+  <script src="script.js"></script>
 </body>
 </html>
