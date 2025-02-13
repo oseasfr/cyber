@@ -38,7 +38,7 @@
 ###
 
 <a href="https://www.abuseipdb.com/user/108328">
-  <img class="abuse-badge" src="https://www.abuseipdb.com/contributor/108328.svg" alt="AbuseIPDB Contributor Badge">
+  <img src="https://www.abuseipdb.com/contributor/108328.svg" alt="AbuseIPDB Contributor Badge" width="250">
 </a>
 
 </div>
