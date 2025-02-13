@@ -1,9 +1,4 @@
 ###
-<div align="left">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=oseasfr.oseasfr&"  />
-</div>
-
-###
 
 <h1 align="left">Obas, e ai bão?</h1>
 
