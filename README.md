@@ -6,8 +6,6 @@
 
 <h3 align="left">Por aqui alguns conteúdos da área de Cybersecurity e afins.</h3>
 
-###
-
   </a>
 </div>  
 <br>
