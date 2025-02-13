@@ -1,10 +1,10 @@
 ###
 
-<h1 align="left">Obas, e ai bão?</h1>
+<h1 align="left">Olá, eu sou o Oséas!</h1>
 
 ###
 
-<h3 align="left">Por aqui alguns conteúdos da área de Cybersecurity e afins!</h3>
+<h3 align="left">Por aqui alguns conteúdos da área de Cybersecurity e afins.</h3>
 
 ###
 
@@ -12,11 +12,10 @@
   </a>
 </div>  
 <br>
-  - 📚 Analista de Segurança da Informação em um Data Center Privado 🇧🇷;<br>
-  - 📚 Pós-Graduado em MBA em Segurança da Informação pela Descomplica;<br>
-  - 📚 Graduação: Tecnólogo em Redes de Computadores pela UEG;<br>
-  - ⚡ No meu tempo livre curto a família, amigos e gosto de tocar um violão.</p>
-
+  - 📚 Atuo atualmente como Analista de Segurança da Informação em um DataCenter 🇧🇷;<br>
+  - 📚 Sou Pós-Graduado em MBA em Segurança da Informação pela Descomplica;<br>
+  - 📚 Minha Graduação: Tecnólogo em Redes de Computadores pela UEG;<br>
+  
 <div align="left">
   <a href="https://www.linkedin.com/in/oseasfr/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -49,8 +48,10 @@
 
 </div>
 
+![oseasfr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=oseasfr&theme=gotham&hide_border=true)
+
+<h3 align="left"></h3>
+
 ###
 
 [![](https://img.shields.io/badge/Meu-GitHub-blue?style=plastic&logo=github)](https://github.com/oseasfr)
-
-<h3 align="left"></h3>
