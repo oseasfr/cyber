@@ -38,7 +38,7 @@
 ###
 	
 <a href="https://www.abuseipdb.com/user/108328" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
-	<img src="https://www.abuseipdb.com/contributor/108328.svg" alt="AbuseIPDB Contributor Badge" style="width: 340px;border-radius: 5px;border-top: 5px solid #058403;border-right: 5px solid #111;border-bottom: 5px solid #111;border-left: 5px solid #058403;padding: 5px;box-shadow: 2px 2px 1px 1px rgba(0, 0, 0, .2);">
+	<img src="https://www.abuseipdb.com/contributor/108328.svg" alt="AbuseIPDB Contributor Badge" style="width: 250px;border-radius: 5px;border-top: 5px solid #058403;border-right: 5px solid #111;border-bottom: 5px solid #111;border-left: 5px solid #058403;padding: 5px;box-shadow: 2px 2px 1px 1px rgba(0, 0, 0, .2);">
 </a>
 
 </div>
