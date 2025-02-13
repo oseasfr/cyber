@@ -1,10 +1,6 @@
 ###
 
 <h1 align="left">Olá, eu sou o Oséas!</h1>
-
-###
-
-<h3 align="left">Por aqui alguns conteúdos da área de Cybersecurity e afins.</h3>
 	
 - 📚 Atuo atualmente como Analista de Segurança da Informação em um DataCenter 🇧🇷;<br>
 - 📚 Sou Pós-Graduado em MBA em Segurança da Informação pela Descomplica;<br>
