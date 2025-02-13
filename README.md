@@ -8,7 +8,6 @@
 
 ###
 
-<p align="left">Me chamo Oséas Rosa,<br>
   </a>
 </div>  
 <br>
