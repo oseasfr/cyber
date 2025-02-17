@@ -28,8 +28,6 @@
 ##### [![](https://img.shields.io/badge/Meu-Wiki-blue?style=plastic&logo=github)](https://github.com/oseasfr/cyber/wiki)
 
 <img src="https://github-readme-stats.vercel.app/api?username=oseasfr&show_icons=true&theme=dark" width="400" height="200">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=oseasfr&theme=dark" width="400" height="200">
-
 <h3 align="left"></h3>
 
 ###
