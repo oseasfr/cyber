@@ -27,7 +27,8 @@
 
 ##### [![](https://img.shields.io/badge/Meu-Wiki-blue?style=plastic&logo=github)](https://github.com/oseasfr/cyber/wiki)
 
-![oseasfr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=oseasfr&theme=gotham&hide_border=true)
+![Oseasfr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oseasfr&show_icons=true&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oseasfr&theme=dark)
 
 <h3 align="left"></h3>
 
