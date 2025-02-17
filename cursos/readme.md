@@ -26,7 +26,7 @@ Cursos voltados para Cibersegurança.
 O canal Curso em Vídeo no YouTube oferece tutoriais gratuitos de informática, programação e tecnologias diversas.
 - [Playlist - Segurança da Informação](https://www.youtube.com/playlist?list=PLHz_AreHm4dlaTyjolzCFC6IjLzO8O0XV)
 
-### 4. Curso em Vídeo
+### 4. Cisco Networking Academy
 Listagem de cursos gratuitos da Cisco na área de segurança.
 - [Cisco Networking Academy](https://skillsforall.com/catalog?category=course&subject+areas=cybersecurity)
 
