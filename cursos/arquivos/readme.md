@@ -4,4 +4,4 @@
 
 Clique nos links abaixo para acessar os arquivos correspondentes.
 
-[📖 Visualizar PDF via Google Docs](https://docs.google.com/gview?url=https://raw.githubusercontent.com/oseasfr/cyber/Principal/cursos/arquivos/pdf/001%20Fundamentos-da-Seguran%C3%A7a-Cibern%C3%A9tica.pdf&embedded=true)
+[CIS Controls - Fundamentos da Segurança Cibernética](https://docs.google.com/gview?url=https://raw.githubusercontent.com/oseasfr/cyber/Principal/cursos/arquivos/pdf/001%20Fundamentos-da-Seguran%C3%A7a-Cibern%C3%A9tica.pdf&embedded=true)
