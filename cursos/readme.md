@@ -49,7 +49,7 @@ Cursos voltados para Cibersegurança.
 
 ### 4. Curso em Vídeo 
 O canal Curso em Vídeo no YouTube oferece tutoriais gratuitos de informática, programação e tecnologias diversas.  
-- [🎬 Playlist - Segurança da Informação](https://www.youtube.com/playlist?list=PLHz_AreHm4dlaTyjolzCFC6IjLzO8O0XV)  
+- [Playlist - Segurança da Informação](https://www.youtube.com/playlist?list=PLHz_AreHm4dlaTyjolzCFC6IjLzO8O0XV)  
 
 ##### [![](https://img.shields.io/badge/Voltar-ao%20topo-blue?style=plastic&logo=github)](#cursos)  
 
