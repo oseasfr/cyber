@@ -4,4 +4,4 @@
 
 Clique nos links abaixo para acessar os arquivos correspondentes.
 
-[ CIS Controls - Fundamentos da Segurança Cibernética](./001%20Fundamentos-da-Segurança-Cibernética.pdf)
+[ CIS Controls - Fundamentos da Segurança Cibernética](./pdf/001%20Fundamentos-da-Segurança-Cibernética.pdf)
