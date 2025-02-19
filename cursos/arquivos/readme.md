@@ -4,4 +4,4 @@
 
 Clique nos links abaixo para acessar os arquivos correspondentes.
 
-[CIS Controls - Fundamentos da Segurança Cibernética](https://docs.google.com/gview?url=https://raw.githubusercontent.com/oseasfr/cyber/Principal/cursos/arquivos/pdf/cis-controls-fundamentos-da-seguranca-cibernetica.pdf&embedded=true)
+[CIS Controls - Fundamentos da Segurança Cibernética](https://oseasfr.github.io/cyber/cursos/arquivos/pdf/cis-controls-fundamentos-da-seguranca-cibernetica.pdf)
