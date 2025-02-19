@@ -10,6 +10,7 @@
 5. [Cisco Networking Academy](#5-cisco-networking-academy)  
 6. [Linux Foundation](#6-linux-foundation)  
 7. [Udemy](#7-udemy)  
+8. [Repositório de documentações](#8-repositório-de-documentações)  
 
 ---
 
@@ -78,4 +79,11 @@ Página já com o filtro de preço "Gratuito" para os cursos de cibersegurança.
 
 ---
 
+### 8. Repositório de documentações
+Acesse o repositório com documentações relacionadas aos cursos:  
+- [Repositório de documentações](https://github.com/oseasfr/cyber/blob/Principal/cursos/arquivos/readme.md)  
+
+##### [![](https://img.shields.io/badge/Voltar-ao%20topo-blue?style=plastic&logo=github)](#cursos)  
+
+---
 ##### [![](https://img.shields.io/badge/Voltar-para%20Wiki-blue?style=plastic&logo=github)](https://github.com/oseasfr/cyber/wiki)
