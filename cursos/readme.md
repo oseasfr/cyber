@@ -4,7 +4,6 @@
 
 ### Índice 
 1. [Escola Virtual Gov](#1-escola-virtual-gov)  
-   - [1.1 CIS Controls](#11-cis-controls)  
 2. [Hackers do Bem](#2-hackers-do-bem)  
 3. [Senai - SP](#3-senai---sp)  
 4. [Curso em Vídeo](#4-curso-em-vídeo)  
