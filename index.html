@@ -6,79 +6,13 @@
   <title>Meu README</title>
   <!-- CSS para estilizar o markdown com aparência similar ao GitHub -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/4.0.0/github-markdown.min.css">
-  <style>
-    body {
-      background-color: #181a1b;
-      color: #c9d1d9;
-      padding: 2em;
-      transition: background-color 0.3s ease, color 0.3s ease;
-    }
-    .markdown-body {
-      background-color: #fff;
-      box-shadow: 0 0 10px rgba(0,0,0,0.1);
-      padding: 2em;
-      border-radius: 6px;
-      max-width: 800px;
-      margin: 0 auto;
-    }
-    .markdown-body img[src*="abuseipdb.com/contributor"] {
-  max-width: 150px !important;
-  height: auto !important;
-}
-   .markdown-body img[src*="github-readme-stats"], 
-.markdown-body img[src*="github-streak-stats"] {
-  width: 400px !important;
-  height: 200px !important;
-  display: block;
-  margin: 10px auto; /* Centraliza as imagens */
-}
-  </style>
+  <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
   <!-- Área onde o conteúdo renderizado será exibido -->
   <article class="markdown-body" id="conteudo">
     Carregando conteúdo...
   </article>
-
-  <script>
-    document.addEventListener("DOMContentLoaded", function() {
-      // Primeiro, busca o conteúdo Markdown do seu README.md no GitHub
-      fetch('https://raw.githubusercontent.com/oseasfr/cyber/Principal/README.md')
-        .then(response => {
-          if (!response.ok) {
-            throw new Error('Erro ao buscar o arquivo: ' + response.status);
-          }
-          return response.text();
-        })
-        .then(markdown => {
-          // Em seguida, envia o Markdown para a API do GitHub para renderizá-lo em HTML
-          return fetch('https://api.github.com/markdown', {
-            method: 'POST',
-            headers: {
-              'Content-Type': 'application/json'
-            },
-            body: JSON.stringify({
-              text: markdown,
-              mode: 'gfm',
-              context: 'oseasfr/cyber'
-            })
-          });
-        })
-        .then(response => {
-          if (!response.ok) {
-            throw new Error('Erro na API do GitHub: ' + response.status);
-          }
-          return response.text();
-        })
-        .then(html => {
-          // Exibe o HTML convertido na página
-          document.getElementById('conteudo').innerHTML = html;
-        })
-        .catch(error => {
-          console.error('Erro:', error);
-          document.getElementById('conteudo').innerHTML = "Erro ao carregar o conteúdo.";
-        });
-    });
-  </script>
+  <script src="js/scripts.js"></script>
 </body>
 </html>
