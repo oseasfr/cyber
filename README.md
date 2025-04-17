@@ -29,6 +29,8 @@
  
  <img src="https://github-readme-stats.vercel.app/api?username=oseasfr&show_icons=true&theme=dark" width="400" height="200">
  <h3 align="left"></h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oseasfr&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
  
  ###
  
