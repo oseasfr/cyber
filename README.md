@@ -5,22 +5,14 @@
  - 📚 Atuo atualmente como Analista de Segurança da Informação em um DataCenter 🇧🇷;<br>
  - 📚 Sou Pós-Graduado em MBA em Segurança da Informação pela Descomplica;<br>
  - 📚 Minha Graduação: Tecnólogo em Redes de Computadores pela UEG;<br>
-   
- <div align="left">
-   <a href="https://www.linkedin.com/in/oseasfr/" target="_blank">
-     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
- </div>
  	  
  ###
- 
- <div align="left">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
-   <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-   <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
- </div>
- 
+
+ ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+ ![Wiki.js](https://img.shields.io/badge/wiki.js-%231976D2.svg?style=for-the-badge&logo=wikidotjs&logoColor=white)
+ ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+ ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
  ###
  
  > Disponibilizo aqui algumas documentações da área de Segurança da Informação, então é só clicar no link abaixo para ter acesso.
@@ -31,6 +23,11 @@
  <h3 align="left"></h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oseasfr&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
+<div align="left">
+   <a href="https://www.linkedin.com/in/oseasfr/" target="_blank">
+     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+ </div>
  
  ###
  
