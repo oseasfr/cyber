@@ -15,6 +15,7 @@ Ferramenta de conscientização para fortalecimento das senhas 🔐.<br>
 Conta também com medição da complexidade e avaliação de possível vazamento de dados.
 
 ## Vídeos
+ ![Vídeos](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)
 
 <a href="https://www.youtube.com/watch?v=8zcrg23K-M8">
   <img src="https://github.com/user-attachments/assets/2bc97ae4-1ae4-4f11-844f-c7dd38895c95" width="500"/>
