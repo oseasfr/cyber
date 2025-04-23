@@ -2,9 +2,10 @@
  
  <h1 align="left">Olá, eu sou o Oséas!</h1>
  	
- - 📚 Atuo atualmente como Analista de Segurança da Informação em um DataCenter 🇧🇷;<br>
- - 📚 Sou Pós-Graduado em MBA em Segurança da Informação pela Descomplica;<br>
- - 📚 Minha Graduação: Tecnólogo em Redes de Computadores pela UEG;<br>
+> [!TIP]
+> 📚 Atualmente Analista de Segurança da Informação em um DataCenter 🇧🇷;<br>
+> 📚 Pós-Graduação: MBA em Segurança da Informação pela Descomplica;<br>
+> 📚 Graduação: Tecnólogo em Redes de Computadores pela UEG;<br>
  	  
  ###
 
@@ -14,10 +15,8 @@
  
  ###
  
- > Disponibilizo aqui algumas documentações da área de Segurança da Informação, então é só clicar no link abaixo para ter acesso.
- 
- ##### [![](https://img.shields.io/badge/Meu-Wiki-blue?style=plastic&logo=github)](https://github.com/oseasfr/cyber/wiki)
- 
+ Disponibilizo aqui no [![](https://img.shields.io/badge/Meu-Wiki-blue?style=plastic&logo=github)](https://github.com/oseasfr/cyber/wiki) algumas documentações da área de Segurança da Informação.
+  
  <img src="https://github-readme-stats.vercel.app/api?username=oseasfr&show_icons=true&theme=dark" width="400" height="200">
  <h3 align="left"></h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oseasfr&layout=compact&theme=tokyonight" alt="Top Languages" />
