@@ -39,11 +39,16 @@ Conta também com medição da complexidade e avaliação de possível vazamento
 <p style="text-align: center;">Sarina Binti Abdullah</p>
 
 <a href="https://www.youtube.com/shorts/F_mQjaE6p1s">
- <img src="https://github.com/user-attachments/assets/1933038b-9aa1-4f00-a74a-593b97775630" width="500"/>
+ <img src="https://github.com/user-attachments/assets/1933038b-9aa1-4f00-a74a-593b97775630" width="200"/>
 </a>
 <p style="text-align: center;">Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiwhenuakitanatahu wifi</p>
 
 <a href="https://www.youtube.com/shorts/oGL4zQhjNzs">
- <img src="https://github.com/user-attachments/assets/cc218594-930b-4bef-8a7d-062da0660702" width="500"/>
+ <img src="https://github.com/user-attachments/assets/cc218594-930b-4bef-8a7d-062da0660702" width="200"/>
 </a>
 <p style="text-align: center;">MFA Drawer Authentication</p>
+
+<a href="https://www.youtube.com/playlist?list=PLQq8-9yVHyOan-ZhSN7Vzs-QNTwOJPljl">
+<img src="https://github.com/user-attachments/assets/e969b100-78bc-464c-8409-be0b311f855b" width="200"/>
+</a>
+<p style="text-align: center;">Playlist | Cidadão na Rede</p>
