@@ -32,6 +32,11 @@ Conta também com medição da complexidade e avaliação de possível vazamento
 </a>
 <p style="text-align: center;">Whats is Your Password?</p>
 
+<a href="youtube.com/watch?si=-K1xwLIjhwzF30aR&v=35caskf6YJg&feature=youtu.be">
+ <img src=https://github.com/user-attachments/assets/362b5a15-7455-4cf4-bb03-c1703e56815a" width="500"/>
+</a>
+<p style="text-align: center;">sarina binti abdullah</p>
+
 > Em construção ...
 
 ##### [![](https://img.shields.io/badge/Voltar-para%20Wiki-blue?style=plastic&logo=github)](https://github.com/oseasfr/cyber/wiki)
