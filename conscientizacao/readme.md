@@ -2,7 +2,7 @@
 > Information Security Awareness
 >
 > 
-<img src="https://raw.githubusercontent.com/oseasfr/cyber/Principal/imagens/awareness-001.png" width="700"/>
+<img width="800" alt="awareness-001" src="https://github.com/user-attachments/assets/9aaab4a5-1276-4327-a1b0-8484ae351093" />
 
 ## Plataformas Web
 > Alguns links e recursos gratuitos para conscientização em segurança da informação.
