@@ -53,9 +53,9 @@ Conta também com medição da complexidade e avaliação de possível vazamento
 </a>
 <p style="text-align: center;">Playlist | Cidadão na Rede</p>
 
-# Exemplos de URLs falsas
+## Exemplos de URLs falsas
 
-<img src="https://github.com/user-attachments/assets/067a058e-593c-4f50-9d93-00c1b7c4a355" width="500"/>
-Demonstrar modificações sutis nas urls, mas que podem ser cruciais para os usuários não caírem em golpes.<br>
+<img src="https://github.com/user-attachments/assets/067a058e-593c-4f50-9d93-00c1b7c4a355" width="500"/><br>
+Demonstrar modificações sutis nas urls, mas que podem ser cruciais para os usuários não caírem em golpes.
 - [x] rnicrosoft.com ao invés de microsoft.com
 - [x] paypaI.com ao invés de paypal.com
