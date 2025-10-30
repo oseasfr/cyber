@@ -1,7 +1,8 @@
 # Conscientização em Segurança da Informação
 > Information Security Awareness
-
-<img src="https://github.com/oseasfr/cyber/blob/Principal/imagens/awareness-001.png" width="700"/>
+>
+> 
+<img src="https://raw.githubusercontent.com/oseasfr/cyber/Principal/imagens/awareness-001.png" width="700"/>
 
 ## Plataformas Web
 > Alguns links e recursos gratuitos para conscientização em segurança da informação.
@@ -33,7 +34,7 @@ Conta também com medição da complexidade e avaliação de possível vazamento
 <p style="text-align: center;">Whats is Your Password?</p>
 
 <a href="youtube.com/watch?si=-K1xwLIjhwzF30aR&v=35caskf6YJg&feature=youtu.be">
- <img src=https://github.com/user-attachments/assets/362b5a15-7455-4cf4-bb03-c1703e56815a" width="500"/>
+ <img src="https://github.com/user-attachments/assets/58d98077-fa30-4728-93f4-852dc0e37ca9" width="500"/>
 </a>
 <p style="text-align: center;">sarina binti abdullah</p>
 
