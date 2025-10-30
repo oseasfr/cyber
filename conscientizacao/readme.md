@@ -11,7 +11,7 @@
 Materiais gratuitos para conscientização em segurança e proteção cibernética.
 - [x] [Phishing Quiz da Google](https://phishingquiz.withgoogle.com/)<br>
 Ferramenta web com o intuito de ensinar os usuários na identificação de ataques de *Phishing* 🐟.
-- [x] [Teste de Senha Kaspersky](https://password.kaspersky.com/pt/)<br>
+- [x] [Teste de Senha Bitwarden](https://bitwarden.com/password-strength/#Password-Strength-Testing-Tool)<br>
 Ferramenta de conscientização para fortalecimento das senhas 🔐.<br>
 Conta também com medição da complexidade e avaliação de possível vazamento de dados.
 
@@ -36,8 +36,8 @@ Conta também com medição da complexidade e avaliação de possível vazamento
 <a href="youtube.com/watch?si=-K1xwLIjhwzF30aR&v=35caskf6YJg&feature=youtu.be">
  <img src="https://github.com/user-attachments/assets/58d98077-fa30-4728-93f4-852dc0e37ca9" width="500"/>
 </a>
-<p style="text-align: center;">sarina binti abdullah</p>
-
-> Em construção ...
-
-##### [![](https://img.shields.io/badge/Voltar-para%20Wiki-blue?style=plastic&logo=github)](https://github.com/oseasfr/cyber/wiki)
+<p style="text-align: center;">Sarina Binti Abdullah</p>
+<a href="https://www.youtube.com/shorts/F_mQjaE6p1s">
+ <img src="https://github.com/user-attachments/assets/1933038b-9aa1-4f00-a74a-593b97775630" width="500"/>
+</a>
+<p style="text-align: center;">Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiwhenuakitanatahu wifi</p>
