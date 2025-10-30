@@ -59,3 +59,8 @@ Conta também com medição da complexidade e avaliação de possível vazamento
 Demonstrar modificações sutis nas urls, mas que podem ser cruciais para os usuários não caírem em golpes.
 - [x] rnicrosoft.com ao invés de microsoft.com
 - [x] paypaI.com ao invés de paypal.com
+
+## Soluções contratadas vs Clique no Phishing
+ 
+ <img src="https://github.com/user-attachments/assets/1592c31f-9d77-459a-8bd5-14ae5499d747" width="500"/><br>
+Imagem para demonstrar de forma lúdica que de nada adianta os recursos tecnológicos implementados para garantia da segurança se o usuário não for conscientizado e clicar num link malicioso.
