@@ -49,6 +49,6 @@ Conta também com medição da complexidade e avaliação de possível vazamento
 <p style="text-align: center;">MFA Drawer Authentication</p>
 
 <a href="https://www.youtube.com/playlist?list=PLQq8-9yVHyOan-ZhSN7Vzs-QNTwOJPljl">
-<img src="https://github.com/user-attachments/assets/e969b100-78bc-464c-8409-be0b311f855b" width="200"/>
+<img src="https://github.com/user-attachments/assets/e969b100-78bc-464c-8409-be0b311f855b" width="500"/>
 </a>
 <p style="text-align: center;">Playlist | Cidadão na Rede</p>
